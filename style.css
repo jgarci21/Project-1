@@ -64,4 +64,20 @@ li {
   padding-bottom: 0.20em;
 }
 
+ol {
+  font-size: 1.10em; 	
+  list-style-type: disc;
+  line-height: 1.00em ;
+  padding-top: 0.10em;
+  padding-bottom: 1.00em; 
+  padding-left: 2.50em; 
+  padding-right: 1.00em; 
+}
 
+ol li {
+  font-size: 0.90em; 
+  list-style-type: disc;
+  line-height: .30em ;
+  padding-top: 0.30em;
+  padding-bottom: .15em;  
+}
