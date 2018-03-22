@@ -95,3 +95,26 @@ video {
   padding: 2.50px;
 }
 
+#navigation ul {
+  list-style-type: none;
+  margin: 0.01;
+  padding: 0.01;
+  overflow: hidden;
+  background-color: #647;
+}
+
+#navigation li {
+  font-size: 1.60em;
+  padding-right: 0.50em;
+  padding-left: 0.50em;
+  list-style-type: none;
+  float: left;
+}
+
+#navigation li a {
+  display: block;
+  color: gray;
+  text-align: center;
+  padding: .20px;
+  text-decoration: none;
+}
