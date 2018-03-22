@@ -122,3 +122,28 @@ video {
 .active {
   background-color: rgb(207, 0, 124);
 }
+
+#footer ul,
+#footer li {
+ font-size: 1.00em; 
+ display: block;
+ line-height: 1.00em;
+ padding-top: 0.32em;
+ padding-bottom: 0.32em;
+ padding-left: 0.10em;
+ padding-right: 0.10em;
+ background-color: rgb(112, 205, 255); 
+}
+
+#footer li {
+  display: block;
+  padding-top: 0.08em;
+  padding-bottom: 0.32em;
+  padding-left: 0.32em;
+  background-color: rgb(0, 140, 175); 
+}
+
+#footer ul {
+  width: 100%;
+  background-color: rgb(112, 205, 255);
+}
