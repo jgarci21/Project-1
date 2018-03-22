@@ -22,23 +22,46 @@ header {
 h1 {
   font-size: 2.00em;
   color: rgb(239, 0, 70);
-  line-height: .05em;
-  padding-top: .05em;
-  padding-bottom: .05em;
-  padding-left: .50em;
+  line-height: 0.05em;
+  padding-top: 0.05em;
+  padding-bottom: 0.05em;
+  padding-left: 0.50em;
 }
 
 h2 {
   font-size: 1.85em;
   color: rgb(82, 0, 28);
-  line-height: .10em;
-  padding-top: .25em;
-  padding-bottom: .05em;
+  line-height: 0.10em;
+  padding-top: 0.25em;
+  padding-bottom: 0.05em;
 }
 
 h3 {
   font-size: 1.10em;
-  line-height: .30em;
-  padding-top: .30em;
-  padding-bottom: .15em;
+  line-height: 0.30em;
+  padding-top: 0.30em;
+  padding-bottom: 0.15em;
 }
+
+ul {
+  font-size: 1.00em;
+  list-style-type: circle;
+  line-height: 1.00em;
+  padding-top: 0.20em;
+  padding-bottom: 0.40em;
+}
+
+ul li {
+  font-size: 1.00em;
+  list-style-type: lower-roman;
+  line-height: 1.00em;
+  color: rgb(82, 0, 28);
+}
+
+li {
+  font-size: 1.00em; 
+  list-style-type: lower-roman;
+  padding-bottom: 0.20em;
+}
+
+
