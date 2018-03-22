@@ -3,3 +3,11 @@ html {
   font-size: 1.12em; 
   line-height: 1.25em; 
 }
+
+body {
+  padding-top: 2.00em;
+  padding-right: 1.28em;
+  padding-left: 1.28em;
+  padding-bottom: 4.00em;
+  background-color: rgb(140, 209, 200); 
+}
