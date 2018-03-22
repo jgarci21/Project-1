@@ -18,3 +18,12 @@ header {
   text-align: left;
   border: 3.00px solid black;
 }
+
+h1 {
+  font-size: 2.00em;
+  color: rgb(239, 0, 70);
+  line-height: .05em;
+  padding-top: .05em;
+  padding-bottom: .05em;
+  padding-left: .50em;
+}
