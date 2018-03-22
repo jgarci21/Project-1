@@ -147,3 +147,13 @@ video {
   width: 100%;
   background-color: rgb(112, 205, 255);
 }
+
+section.ind ul li {
+  font-family: arial;
+  list-style-type: lower-alpha;
+}
+
+section.anvsap ul li {
+  font-family: aldhabi;
+  list-style-type: square;
+}
