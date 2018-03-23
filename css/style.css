@@ -97,8 +97,8 @@ video {
 
 #navigation ul {
   list-style-type: none;
-  margin: 0.01;
-  padding: 0.01;
+  margin: 0.02em;
+  padding: 0.02em;
   overflow: hidden;
   background-color: #647;
 }
