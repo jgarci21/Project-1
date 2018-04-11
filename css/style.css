@@ -137,10 +137,10 @@ video {
  font-size: 1.00em; 
  display: block;
  line-height: 1.00em;
- padding-top: 0.32em;
- padding-bottom: 0.32em;
- padding-left: 0.10em;
- padding-right: 0.10em;
+ padding-top: 0.35em;
+ padding-bottom: 0.35em;
+ padding-left: 0.35em;
+ padding-right: 0.35em;
  background-color: rgb(112, 205, 255); 
 }
 
