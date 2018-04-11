@@ -177,3 +177,17 @@ section.anvsap ul li {
   font-family: aldhabi;
   list-style-type: square;
 }
+
+.anvsap{
+  text-align: center; 
+}
+
+.anvsap3{
+  text-align: center; 
+  border-bottom: 2px solid black;
+  padding-bottom: 0.50em;
+}
+
+.anvsap2{
+  text-align: justify; 
+}
