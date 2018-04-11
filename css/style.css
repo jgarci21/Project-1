@@ -15,9 +15,11 @@ body {
 header {
   background-color: rgb(0, 206, 239);
   color:black; 
-  text-align: left;
+  text-align: center;
   border: 3.00px solid black;
 }
+
+
 
 h1 {
   font-size: 2.00em;
@@ -101,6 +103,7 @@ video {
   padding: 0.02em;
   overflow: hidden;
   background-color: #647;
+  text-align: center;
 }
 
 #navigation li {
@@ -108,11 +111,11 @@ video {
   padding-right: 0.50em;
   padding-left: 0.50em;
   list-style-type: none;
-  float: left;
+  display: inline;
 }
 
 #navigation li a {
-  display: block;
+  display: inline-block;
   color: gray;
   text-align: center;
   padding: .20px;
