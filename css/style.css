@@ -80,7 +80,9 @@ ol li {
   list-style-type: disc;
   line-height: .30em ;
   padding-top: 0.30em;
-  padding-bottom: 0.15em;  
+  padding-bottom: 0.15em;
+  margin-left: auto;
+  margin-right: auto  
 }
 
 img {
@@ -96,6 +98,9 @@ video {
   border: 3.75px solid #999;
   background-color: rgb(82, 0, 28);
   padding: 2.50px;
+  padding-top: 3.50em;
+  margin-left: auto;
+  margin-right: auto
 }
 
 #navigation ul {
@@ -117,7 +122,7 @@ video {
 
 #navigation li a {
   display: inline-block;
-  color: gray;
+  color: rgb(15, 280, 27);
   text-align: center;
   padding: .20px;
   text-decoration: none;
