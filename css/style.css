@@ -162,6 +162,17 @@ section.ind ul li {
   list-style-type: lower-alpha;
 }
 
+.ind2{
+  font-family: arial;
+  list-style-type: lower-alpha;
+  text-align: center; 
+}
+
+.ind3{
+  border-bottom: 2px solid black;
+  padding-bottom: 0.50em;
+}
+
 section.anvsap ul li {
   font-family: aldhabi;
   list-style-type: square;
