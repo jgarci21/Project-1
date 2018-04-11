@@ -19,8 +19,6 @@ header {
   border: 3.00px solid black;
 }
 
-
-
 h1 {
   font-size: 2.00em;
   color: rgb(239, 0, 70);
@@ -90,6 +88,8 @@ img {
   border: 6.00px solid #999;
   background-color: rgb(225, 0, 28);
   color: purple;
+  margin-left: auto;
+  margin-right: auto
 }
 
 video {
